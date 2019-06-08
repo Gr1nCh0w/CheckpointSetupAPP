@@ -1,0 +1,338 @@
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EtudiantIR2\Desktop\PROJET\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\EtudiantIR2\Desktop\PROJET\_APPLICATIONS\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\WindowFormExtended.dll
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\WindowFormExtended.dll
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\Thomas\Documents\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\WindowFormExtended.dll
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\EtudiantIR2\Downloads\APP 1-20190520T103654Z-001\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\WindowFormExtended.dll
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\App.xbf
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\MainPage.xbf
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.xr.xml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.exe
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.pdb
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\resources.pri
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\AppxManifest.xml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Core\AppxManifest.xml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Core\Checkpoint Setup APP.exe
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Core\ForBundle\AppxManifest.xml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Checkpoint Setup APP.build.appxrecipe
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.dll
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Newtonsoft.Json.pdb
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\System.Runtime.dll
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\WindowFormExtended.dll
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\bin\x64\Debug\Microsoft.UI.Xaml.Markup.winmd
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csprojAssemblyReference.cache
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\App.g.i.cs
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\App.g.cs
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.i.cs
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\MainPage.g.cs
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\XamlTypeInfo.g.cs
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\App.xaml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\MainPage.xaml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\App.xbf
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\MainPage.xbf
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\XamlSaveStateFile.xml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CoreCompileInputs.cache
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.csproj.CopyComplete
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.exe
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\Checkpoint Setup APP.pdb
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\ResourceHandlingTask.state
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\priconfig.xml.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\filtered.layout.resfiles.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\excluded.layout.resfiles.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\resources.resfiles.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\pri.resfiles.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\qualifiers.txt.intermediate
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\ProjectArchitectures.txt
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758480200000000.json
+J:\THOMAS\PROGRAMME\Checkpoint Setup APP (1024x748)\Checkpoint Setup APP\obj\x64\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636758516200000000.json

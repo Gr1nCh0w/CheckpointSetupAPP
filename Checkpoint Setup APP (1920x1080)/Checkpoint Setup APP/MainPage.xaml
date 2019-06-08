@@ -1,0 +1,56 @@
+﻿<Page
+    x:Class="Checkpoint_Setup_APP.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Checkpoint_Setup_APP"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <Button x:Name="EXIT" Content="X" HorizontalAlignment="Left" Margin="1863,17,0,0" VerticalAlignment="Top" Height="33" Width="35" Click="EXIT_Click"/>
+        <Grid HorizontalAlignment="Center" Height="1060" Margin="0,0,0,0" VerticalAlignment="Center" Width="1900">
+            <Grid>
+                <Grid HorizontalAlignment="Center" Height="260" Margin="0,45,0,0" VerticalAlignment="Top" Width="980" BorderBrush="Black" CornerRadius="10" Padding="12" BorderThickness="10">
+                    <RichTextBlock x:Name="Label_AddrSQL" HorizontalAlignment="Left" Height="40" Margin="118,85,0,0" VerticalAlignment="Top" Width="282">
+                        <Paragraph>
+                            <Run Text="Adresse IP SQL :" FontSize="28" FontWeight="Bold"/>
+                        </Paragraph>
+                    </RichTextBlock>
+                    <TextBox x:Name="TxtBx_IpSQL" HorizontalAlignment="Left" Margin="490,0,0,0" Text="" VerticalAlignment="Center" Width="280" Height="40" IsReadOnly="True" IsEnabled="False" IsTabStop="False" FontWeight="Bold" TextAlignment="Center" FontSize="25"/>
+                </Grid>
+                <Grid HorizontalAlignment="Left" Height="400" Margin="38,349,0,0" VerticalAlignment="Top" Width="1840" BorderBrush="Black" CornerRadius="10" Padding="12" BorderThickness="10">
+                    <RichTextBlock x:Name="Label_IPAct" HorizontalAlignment="Left" Height="43" Margin="65,90,0,0" VerticalAlignment="Top" Width="300">
+                        <Paragraph>
+                            <Run Text="Adresse IP Actuelle :" FontSize="28" FontWeight="Bold"/>
+                        </Paragraph>
+                    </RichTextBlock>
+                    <RichTextBlock x:Name="Label_PtAct" HorizontalAlignment="Left" Height="43" Margin="65,230,0,0" VerticalAlignment="Top" Width="188">
+                        <Paragraph>
+                            <Run Text="Port Actuel :" FontSize="28" FontWeight="Bold"/>
+                        </Paragraph>
+                    </RichTextBlock>
+                    <RichTextBlock x:Name="Label_IP" HorizontalAlignment="Left" Height="46" Margin="1020,90,0,0" VerticalAlignment="Top" Width="195">
+                        <Paragraph>
+                            <Run Text="Adresse IP :" FontSize="28" FontWeight="Bold"/>
+                        </Paragraph>
+                    </RichTextBlock>
+                    <RichTextBlock HorizontalAlignment="Left" Height="46" Margin="1020,230,0,0" VerticalAlignment="Top" Width="115">
+                        <Paragraph>
+                            <Run Text="Port : " FontSize="28" FontWeight="Bold"/>
+                        </Paragraph>
+                    </RichTextBlock>
+                    <TextBox x:Name="TxtBx_IPChoix" HorizontalAlignment="Left" Margin="1350,90,0,0" Text="" VerticalAlignment="Top" Width="280" Height="40" FontSize="25" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBox x:Name="TxtBx_PtChoix" HorizontalAlignment="Left" Margin="1350,220,0,0" Text="" VerticalAlignment="Top" Width="180" Height="40" TextAlignment="Center" FontSize="25" FontWeight="Bold"/>
+                    <TextBox x:Name="TxtBx_IPAct" HorizontalAlignment="Left" Margin="405,90,0,0" Text="" VerticalAlignment="Top" Width="280" Height="40" IsReadOnly="True" IsEnabled="False" IsTabStop="False" FontWeight="Bold" TextAlignment="Center" FontSize="25"/>
+                    <TextBox x:Name="TxtBx_PtAct" HorizontalAlignment="Left" Margin="405,230,0,0" Text="" VerticalAlignment="Top" Width="180" Height="40" IsReadOnly="True" IsEnabled="False" IsTabStop="False" FontWeight="Bold" TextAlignment="Center" FontSize="25"/>
+                </Grid>
+                <Button x:Name="Btn_SaveIP" Content="SAUVEGARDER" HorizontalAlignment="Left" Margin="643,803,0,0" VerticalAlignment="Top" Height="160" Width="528" FontSize="48" FontWeight="Bold" Click="Btn_SaveIP_Click"/>
+                <Rectangle HorizontalAlignment="Left" Height="100" Margin="1982,863,0,0" VerticalAlignment="Top" Width="100"/>
+
+            </Grid>
+        </Grid>
+
+    </Grid>
+</Page>

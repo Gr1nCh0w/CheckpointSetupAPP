@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BTSSNIR09</Machine>
+    <WindowsUser>EtudiantIR2</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>dbc6920c-cb51-4d0f-963b-3ae9f82b24f7</PackageIdentityName>
+    <PackageIdentityPublisher>CN=EtudiantIR2</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\obj\ARM\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>E025A1AB23A57FAAB623CEA68CE78CB43EFFEA3F368CEB4A99C56DA3BA2E12CF</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>dbc6920c-cb51-4d0f-963b-3ae9f82b24f7_1.1.5.0_arm__anrkrgb6pzn3j</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>dbc6920c-cb51-4d0f-963b-3ae9f82b24f7_anrkrgb6pzn3j!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>dbc6920c-cb51-4d0f-963b-3ae9f82b24f7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EtudiantIR2</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.5.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-27T15:05:32.933</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\Checkpoint Setup APP.exe">
+      <PackagePath>entrypoint\Checkpoint Setup APP.exe</PackagePath>
+      <Modified>2019-05-27T15:05:32.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\.nuget\packages\newtonsoft.json\12.0.1\lib\netstandard2.0\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2018-11-27T17:07:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-arm.microsoft.netcore.universalwindowsplatform\6.2.8\runtimes\win10-arm\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2019-03-12T21:22:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\.nuget\packages\windowformextended\1.0.0\lib\WindowFormExtended.dll">
+      <PackagePath>WindowFormExtended.dll</PackagePath>
+      <Modified>2015-07-01T13:07:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.17763.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2018-10-23T00:33:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.021</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.216</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.996</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.009</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.033</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.119</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.193</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.972</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.204</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.324</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.143</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.083</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.252</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.131</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.984</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.312</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.228</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.069</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.839</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.924</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.960</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.935</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.828</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.779</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.948</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.816</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2019-05-20T10:44:00.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.108</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:44:00.156</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.863</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2019-05-20T10:43:59.791</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2019-05-27T14:45:03.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2019-05-20T10:43:53.223</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\Checkpoint Setup APP.xr.xml">
+      <PackagePath>Checkpoint Setup APP.xr.xml</PackagePath>
+      <Modified>2019-05-20T10:43:58.107</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2019-05-27T15:05:32.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2019-05-27T15:05:32.451</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2018-10-22T23:44:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2019-05-27T15:00:52.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\EtudiantIR2\Desktop\DOCUMENTS PROJET\APP 1 - FINIS\APP 1\Checkpoint Setup APP\Checkpoint Setup APP\bin\ARM\Debug\Core\Checkpoint Setup APP.exe">
+      <PackagePath>Checkpoint Setup APP.exe</PackagePath>
+      <Modified>2019-05-27T15:05:32.930</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27404.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27404.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.27505.2</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.27505.2, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\EtudiantIR2\.nuget\packages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.8\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27023.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27023.1, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

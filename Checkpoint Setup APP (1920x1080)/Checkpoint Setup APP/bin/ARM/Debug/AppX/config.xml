@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<configuration>
+  <BDD>
+    <IP name="IPSQL">"192.168.0.248"</IP>
+    <BDDName name="DataBase">"CCT"</BDDName>
+    <User name="UserID">"sa"</User>
+    <Password name="Passwd">"sapassword"</Password>
+  </BDD>
+  <Auth>
+    <IDRPI name="IDRPI">"administrator"</IDRPI>
+    <MDPRPI name="MDPRPI">"admin"</MDPRPI>
+  </Auth>
+</configuration>
